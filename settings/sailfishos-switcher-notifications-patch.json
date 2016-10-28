@@ -1,0 +1,16 @@
+{
+    "translation_catalog": "sailfishos-switcher-notifications-patch",
+    "entries": [
+        {
+            "path": "system_settings/look_and_feel/sailfishos-switcher-notifications-patch",
+            "type": "page",
+            "title": "Notifications in switcher",
+            "translation_id": "sailfishos-switcher-notifications-patch-title",
+            "icon": "/usr/share/patchmanager/icons/icon-m-patchmanager.png",
+            "order": 5000,
+            "params": {
+                "source": "/usr/share/jolla-settings/pages/sailfishos-switcher-notifications-patch/mainpage.qml"
+            }
+        }
+    ]
+}

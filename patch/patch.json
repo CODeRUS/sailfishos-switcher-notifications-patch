@@ -1,0 +1,8 @@
+{
+    "name": "Show notifications count in switcher",
+    "description": "Show notifications count in switcher",
+    "category": "homescreen",
+    "infos": {
+        "maintainer": "coderus"
+    }
+}
